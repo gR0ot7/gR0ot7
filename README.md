@@ -3,8 +3,8 @@
 
 ### 📊 Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gR0ot7&show_icons=true&theme=radical&hide_broder=true" alt="Lavish's GitHub stats" width="100%" > <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gR0ot7&theme=github_dark&hide_border=true" alt="Lavish's GitHub streak" width="100%" >
+<img src="https://github-readme-stats.vercel.app/api?username=gR0ot7&show_icons=true&theme=radical&hide_broder=true" alt="Mayank's GitHub stats" width="100%" > <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gR0ot7&theme=github_dark&hide_border=true" alt="Mayank's GitHub streak" width="100%" >
 </div>
 
 ### 🛠️ Skills and Tools:
