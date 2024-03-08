@@ -40,7 +40,7 @@
   
 ### 🔝 Most used languages
 
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank&theme=github_dark&hide_border=true&layout=compact" />
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gR0ot7&theme=github_dark&hide_border=true&layout=compact" />
 
 ---
 
