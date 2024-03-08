@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mayank</h1>
-<h3 align="center">🚀 Front End Developer 🌟 Python Developer 🌟Linux SysAdmin</h3>
+<h3 align="center">🚀 Front End Developer 🌟 Python Developer</h3>
 
 ### 📊 Stats
 <div align="center">
